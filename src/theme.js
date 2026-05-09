@@ -3,17 +3,43 @@ import { createTheme } from '@mui/material/styles';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#0b3d91', // dark blue
+      main: '#1a237e',
+      contrastText: '#ffffff'
     },
     secondary: {
-      main: '#6b7280', // steel gray
+      main: '#64748b',
+    },
+    text: {
+      primary: '#102a43',
+      secondary: '#64748b'
     },
     background: {
-      default: '#ffffff',
-    },
+      default: '#f7f9fc',
+      paper: '#ffffff'
+    }
   },
   typography: {
-    fontFamily: ['Inter', 'Roboto', 'Helvetica', 'Arial', 'sans-serif'].join(',')
+    fontFamily: ['Inter', 'Roboto', 'Helvetica', 'Arial', 'sans-serif'].join(','),
+    h4: {
+      fontWeight: 700
+    },
+    h5: {
+      fontWeight: 700
+    }
+  },
+  components: {
+    MuiButton: {
+      defaultProps: {
+        disableElevation: true
+      }
+    },
+    MuiCard: {
+      styleOverrides: {
+        root: {
+          borderRadius: 18
+        }
+      }
+    }
   }
 });
 

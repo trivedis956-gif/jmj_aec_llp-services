@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.375a14c4.js",
+    "static/media/service-steel.jpg": "/static/media/service-steel.c7a6c2408807f44fb2fc.jpg",
+    "static/media/service-cad.jpg": "/static/media/service-cad.73f40909ae0bc51a773d.jpg",
+    "static/media/industry-construction.jpg": "/static/media/industry-construction.c698565a931fbf7e28a4.jpg",
+    "static/media/industry-fabrication.jpg": "/static/media/industry-fabrication.f96635b2b35260872c55.jpg",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.23369c4af0ee29eaa55e.jpg",
+    "static/media/industry-infrastructure.jpg": "/static/media/industry-infrastructure.2b039b65edc7f51e52af.jpg",
+    "static/media/about-team.jpg.jpg": "/static/media/about-team.jpg.9736c5ac9d9fd4874fdd.jpg",
+    "static/media/only logo.png": "/static/media/only logo.d240482f5f0ef77adb3f.png",
+    "static/media/only name.png": "/static/media/only name.e810e6de390143260701.png",
+    "static/media/service-bim.png": "/static/media/service-bim.ca042215760540fbdb46.png",
+    "static/media/full-logo.png": "/static/media/full-logo.603b194295f3c2f5b301.png",
+    "index.html": "/index.html",
+    "main.375a14c4.js.map": "/static/js/main.375a14c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.375a14c4.js"
+  ]
+}
